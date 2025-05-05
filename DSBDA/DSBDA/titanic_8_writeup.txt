@@ -1,0 +1,54 @@
+Aim: Use the inbuilt dataset “titanic” the dataset contains 891 rows and contains
+informationabout the passengers who boarded the unfortunate titanic ship use
+the seaborn liabrary to see if we can find any patterns in the data.
+
+Requirement:
+• Anaconda Installer
+• Windows 10 OS
+• Linux
+• Jupyter Notebook
+
+Theory:
+What is Data Visualization?
+
+Data visualization is the graphical representation of information and
+data. By using visual elements like charts, graphs, and maps, data visualization
+tools provide an accessible way to see and understand trends, outliers, and
+patterns in data. In the world of Big Data, data visualization tools and
+technologies are essential to analyze massive amounts of information and make
+data-driven decisions.
+
+The benefits of data visualization:
+When considering business strategies and goals, data visualization
+benefits decision makers in several ways to improve data insights. Let’s explore
+seven major benefits in detail:
+• Better analysis
+• Quick action
+• Identifying patterns
+• Finding errors
+• Understanding the story
+• Exploring business insights
+• Grasping the Latest Trends
+
+
+Libraries Used:
+1. Seaborn: Seaborn is a data visualization library built on top of matplotlib
+and closely integrated with pandas data structures in Python.
+Conclusion:
+In this experiment we have studied about what is data visualization. How
+data visualization helps us in different ways. We have also used the inbuilt data
+set i.e., Titanic from the seaborn library to perform data visualization on it.
+
+
+
+
+Survival Count - Displays how many passengers survived vs. didn’t.
+Survival by Gender - Shows survival rates among males and females.
+Survival by Class - Analyzes survival based on 1st, 2nd, and 3rd class.
+Age Distribution - Provides insight into the age range of passengers.
+Fare vs. Survival - Examines whether ticket price influenced survival.
+Expected after analysis
+These visualizations help identify key trends, such as:
+Higher survival rates among women.
+First-class passengers having a higher survival rate.
+Younger and wealthier passengers had a better chance of survival.
